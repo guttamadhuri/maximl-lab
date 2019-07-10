@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class MAXIML { 
+class  maximl{ 
   
     final static int NO_OF_CHARS = 256; 
     static int max_distinct_char(String str, int n) {  
